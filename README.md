@@ -32,7 +32,7 @@ Technology should expand opportunity—not determine it.
 
 - 🌻 [Ami GPT](https://github.com/JordanNuance/Ami-GPT)
 
-- 📚 Open Educational Resources: [Prompting Humanistic Thinking](https://github.com/JordanNuance/prompting-humanistic-thinking) & [Prompting Success](https://github.com/JordanNuance/prompting-success-generative-ai-teaching-research)
+- 📚 Open Educational Resources: [Thriving Through Challenges](https://pressbooks.pub/thrivingthroughchallenges/), [Prompting Humanistic Thinking](https://github.com/JordanNuance/prompting-humanistic-thinking) & [Prompting Success](https://github.com/JordanNuance/prompting-success-generative-ai-teaching-research)
 
 - 💼 [Jordan Nuance LLC](https://www.jordan-nuance.com/)
 
