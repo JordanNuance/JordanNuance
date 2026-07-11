@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ## I'm Renée Jordan, Ph.D.
 
-Educational Ecosystem Designer | Instructional Technologist | AI Literacy Researcher | Open Education Advocate | Developer of Black-Liberation.Tech | Founder of Jordan Nuance LLC
+Educational Ecosystem Designer | Instructional Technologist | AI Literacy Researcher | Open Education Advocate | Developer of Black-Liberation.Tech | Founder of Jordan Nuance LLC | [Reclaiming Power in the Age od AI](https://rss.com/podcasts/black-liberationtech/2258030/)
 
 I design culturally responsive AI literacy ecosystems that help learners, educators, and organizations use generative AI as a *thinking partner* to strengthen learning, teaching, career exploration, and human-centered innovation.
 
