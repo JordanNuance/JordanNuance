@@ -24,14 +24,16 @@ My work sits at the intersection of instructional technology, digital literacy, 
 
 Technology should expand opportunity—not determine it.
 
-🌱 Black-Liberation.Tech
+- 🌱 [Black-Liberation.Tech](https://www.black-liberation.tech/)
 
-🎙️ Podcast
+- 🎙️ [Podcast](https://rss.com/podcasts/black-liberationtech/)
 
-🤖 Janiyah GPT
+- 🤖 [Janiyah GPT](https://github.com/JordanNuance/Janiyah-GPT)
 
-🌻 Ami GPT
+- 🌻 [Ami GPT](https://github.com/JordanNuance/Ami-GPT)
 
-📚 Open Educational Resources
+- 📚 Open Educational Resources: [Prompting Humanistic Thinking](https://github.com/JordanNuance/prompting-humanistic-thinking) & [Prompting Success](https://github.com/JordanNuance/prompting-success-generative-ai-teaching-research)
 
-💼 Jordan Nuance LLC
+- 💼 [Jordan Nuance LLC](https://www.jordan-nuance.com/)
+
+- 📫 Use [LinkTr.ee](https://linktr.ee/jordannuance) to contact me
