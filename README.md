@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Renée Jordan, Ph.D.
+
+Educational Ecosystem Designer | Instructional Technologist | AI Literacy Researcher | Open Education Advocate | Developer of Black-Liberation.Tech | Founder of Jordan Nuance LLC
+
+I design culturally responsive AI literacy ecosystems that help learners, educators, and organizations use generative AI as a *thinking partner* to strengthen learning, teaching, career exploration, and human-centered innovation.
+
+My work sits at the intersection of instructional technology, digital literacy, prompt engineering, educational design, and community impact. Through bilingual Open Educational Resources (OER), workshops, podcasts, and custom AI assistants, I help people move from simply using technology to thoughtfully shaping it.
+
+Technology should expand opportunity—not determine it.
+
+🌱 Black-Liberation.Tech
+
+🎙️ Podcast
+
+🤖 Janiyah GPT
+
+🌻 Ami GPT
+
+📚 Open Educational Resources
+
+💼 Jordan Nuance LLC
