@@ -25,7 +25,7 @@ Technology should expand opportunity—not determine it.
 
 - 🌱 [Black-Liberation.Tech](https://www.black-liberation.tech/) OER
 
-- 🎙️ Podcast Highlights: [What Do You Need to Let Go Of to Move On Up?](https://rss.com/podcasts/black-liberationtech/1987358/) & [Reclaiming Power in the Age of AI](https://rss.com/podcasts/black-liberationtech/2258030/)
+- 🎙️ [What Do You Need to Let Go Of to Move On Up?](https://rss.com/podcasts/black-liberationtech/1987358/), [No Homework Means DIY](https://rss.com/podcasts/black-liberationtech/1534919/), [PhD - I Did It Because I Can](https://rss.com/podcasts/black-liberationtech/1533962/) & [Reclaiming Power in the Age of AI](https://rss.com/podcasts/black-liberationtech/2258030/)
 
 - 🤖 [Janiyah GPT](https://github.com/JordanNuance/Janiyah-GPT)
 
