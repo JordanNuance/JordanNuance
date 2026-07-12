@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## I'm Renée Jordan, Ph.D.
 
 Educational Ecosystem Designer | Instructional Technologist | AI Literacy Researcher | Open Education Advocate | Developer of Black-Liberation.Tech | Founder of Jordan Nuance LLC
 
