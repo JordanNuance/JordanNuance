@@ -1,4 +1,4 @@
-## Hello 👋🏽, I'm Renée Jordan, Ph.D.
+## Hello 👋🏽, I'm Dr. Renée Jordan
 
 <!--
 **JordanNuance/JordanNuance** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
